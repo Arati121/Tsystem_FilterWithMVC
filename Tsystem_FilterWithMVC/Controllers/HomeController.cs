@@ -9,6 +9,7 @@ using Tsystem_FilterWithMVC.Models;
 
 namespace Tsystem_FilterWithMVC.Controllers
 {
+    [TrackExecutionTime]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

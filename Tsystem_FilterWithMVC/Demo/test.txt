@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Tsystem_FilterWithMVC.Demo
+{
+    public class test
+    {
+    }
+}
+
+on Action Executing=>20-04-2022 11:24:45
+
+on Action Executed=>20-04-2022 11:24:46
+On result executing=>Home==>Index 20-04-2022 11:24:46
+On result executed=>Home==>Index 20-04-2022 11:24:50
+
+on Action Executing=>20-04-2022 11:25:00
+
+on Action Executed=>20-04-2022 11:25:00
+On result executing=>Home==>Index 20-04-2022 11:25:00
+On result executed=>Home==>Index 20-04-2022 11:25:00
+
+on Action Executing=>20-04-2022 11:25:06
+
+on Action Executed=>20-04-2022 11:25:06
+On result executing=>Home==>Privacy 20-04-2022 11:25:06
+On result executed=>Home==>Privacy 20-04-2022 11:25:06
